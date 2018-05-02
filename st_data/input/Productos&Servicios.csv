@@ -1,0 +1,641 @@
+Origen,Descripción,Tipo,Semántica
+Corpus,certificaciones bancarias,Servicio,Servicio
+Corpus,cuentas,Producto,Producto
+Corpus,tarjetas débito,Producto,Producto;Ahorro;Débito
+Corpus,tarjetas crédito,Producto,Crédito
+Corpus,créditos,Producto,Crédito
+Corpus,leasing,Producto,Producto
+Corpus,seguros y asistencias,Servicio,Seguro
+Corpus,inversiones,Servicio,Servicio
+Corpus,giros,Servicio,Servicio
+Corpus,servicios de pago,Servicio,Pago
+Corpus,compra y venta de dólares,Servicio,Moneda;Compra;Venta;Tasa de Cambio
+Corpus,venta de usados,Servicio,Compra;Venta
+Corpus,renta de vehículos,Servicio,Renta
+Corpus,sucursal virtual personas,Servicio,Servicio
+Corpus,bancolombia app,Servicio,Servicio
+Corpus,corresponsal bancario,Servicio,Servicio
+Corpus,sucursal telefónica,Servicio,Servicio
+Corpus,multipagos pse,Servicio,Pago
+Corpus,sucursal física,Servicio,Servicio
+Corpus,cajero automático,Servicio,Retiro;Consulta
+Corpus,cajero multifuncional,Servicio,Retiro;Consignación;Pago;Consulta
+Corpus,soluciones de financiación,Servicio,Servicio
+Corpus,pagar y recaudar,Servicio,Pago
+Corpus,inversión de liquidez,Servicio,Servicio
+Corpus,cobertura de riesgos,Servicio,Servicio
+Corpus,estructuración de negocios,Servicio,Servicio
+Corpus,administración de liquidez,Servicio,Servicio
+Corpus,gestión de tesorería,Servicio,Servicio
+Corpus,tarjetas de crédito,Producto,Crédito
+Corpus,cuentas de depósito,Producto,Producto;Ahorro;Depósito
+Corpus,seguros,Servicio,Seguro
+Corpus,banca de inversión,Servicio,Servicio
+Corpus,factoring,Servicio,Servicio
+Corpus,renting,Servicio,Servicio
+Corpus,operaciones en moneda extranjera,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,sucursal virtual empresas,Servicio,Servicio
+Corpus,fiduciaria bancolombia,Servicio,Servcio
+Corpus,leasing bancolombia,Servicio,Servcio
+Corpus,renting colombia,Servicio,Servcio
+Corpus,valores bancolombia,Servicio,Servcio
+Corpus,factoring bancolombia,Servicio,Servcio
+Corpus,sufi,Servicio,Servcio
+Corpus,tuya,Servicio,Servcio
+Corpus,cuenta ahorrador,Servicio,Servicio;Ahorro
+Corpus,fondos de inversión,Producto,Producto;Inversión
+Corpus,certificados de depósito a término,Servicio,Servicio;CDT
+Corpus,inversión virtual,Servicio,Servicio
+Corpus,crédito corto plazo,Producto,Crédito
+Corpus,crédito largo plazo pregrado,Producto,Crédito
+Corpus,crédito largo plazo posgrado,Producto,Crédito
+Corpus,cuentas de ahorros ,Servicio,Servicio;Ahorro
+Corpus,tarjeta e–prepago,Producto,Producto
+Corpus,giros y remesas,Servicio,Servicio
+Corpus,billetera móvil,Producto,Producto
+Corpus,crédito y leasing para vehículo,Producto,Crédito
+Corpus,créditos de consumo,Producto,Crédito
+Corpus,crediágil ,Producto,Crédito
+Corpus, comercialización de activos,Servicio,Servicio
+Corpus,seguro de vehículo,Servicio,Seguro
+Corpus,seguro de desempleo,Servicio,Seguro
+Corpus,seguro vida ,Servicio,Seguro
+Corpus,seguro de accidentes,Servicio,Seguro
+Corpus,crediágil,Producto,Crédito
+Corpus,tarjeta e-prepago,Producto,Producto
+Corpus,haz pagos por internet,Servicio,Servicio
+Corpus,comercialización de activos,Servicio,Servicio
+Corpus,sucursales físicas,Servicio,Servicio
+Corpus,corresponsales bancarios,Servicio,Servicio
+Corpus,pac,Servicio,Servicio
+Corpus, refinanciar,Servicio,Servicio
+Corpus, restructurar y comprar cartera,Producto,Producto
+Corpus,paz y salvos,Servicio,Servicio
+Corpus,consulta de movimientos,Servicio,Servicio
+Corpus,copia de transacciones,Servicio,Servicio
+Corpus,extractos,Servicio,Servicio
+Corpus,certificaciones leasing,Servicio,Servicio
+Corpus,soporte de operación leasing,Servicio,Servicio
+Corpus,crédito de estudio,Producto,Crédito
+Corpus,tarjeta crédito joven,Producto,Crédito
+Corpus,haz tus transacciones por internet,Servicio,Servicio
+Corpus,cuentas de ahorro,Servicio,Servicio;Ahorro
+Corpus,cuenta corriente,Producto,Producto
+Corpus,cuenta única para campañas políticas bancolombia,Producto,Producto
+Corpus,leasing habitacional,Producto,Producto
+Corpus,leasing inmobiliario,Producto,Producto
+Corpus,leasing para vehículo,Producto,Producto
+Corpus,leasing financiero otros activos,Producto,Producto
+Corpus,cdt,Servicio,Servicio;CDT
+Corpus,compra y venta de acciones,Servicio,Servicio
+Corpus,renta fija,Servicio,Servicio
+Corpus,mercado monetario,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,inversiones internacionales,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,portafolios delegados,Servicio,Servicio
+Corpus,pago de impuestos,Servicio,Servicio
+Corpus,pago sucursal virtual y telefónica,Servicio,Servicio
+Corpus,débito automático,Servicio,Servicio
+Corpus,pago de seguridad social,Servicio,Servicio
+Corpus,cheques,Producto,Producto
+Corpus,tienda del inmueble,Producto,Producto
+Corpus,transacciones ,Servicio,Servicio
+Corpus,canales,Servicio,Servicio
+Corpus,sucursal web,Servicio,Servicio
+Corpus,transacciones,Servicio,Servicio
+Corpus,móvil,Servicio,Servicio
+Corpus,tarjetas,Producto,Producto
+Corpus,soluciones de pago y recaudo,Servicio,Servicio;Pago;Consignación
+Corpus,cuentas de moneda extranjera,Producto,Producto;Moneda;Tasa de Cambio
+Corpus,operaciones de moneda extranjera ,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,cobranza de importación o exportación ,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,negociación de cheques en moneda extranjera,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,compra y venta de divisas,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,giros financiados y cartas de crédito ,Servicio,Servicio
+Corpus,prefinanciación de exportaciones ,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,pagar y recaudar,Servicio,Servicio;Pago;Consignación
+Corpus,crédito agrofácil,Producto,Crédito
+Corpus, compra y vende en el exterior,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,gestión de la tesorería,Servicio,Servicio
+Corpus,tarjeta débito maestro clásica,Producto,Producto;Ahorro
+Corpus,asesoría integral para tu empresa,Servicio,Servicio
+Corpus,administración de liquidez gobierno,Servicio,Servicio
+Corpus,cobertura de riesgos gobierno,Servicio,Servicio
+Corpus,seguros,Servicio,Seguro
+Corpus,visa distribución,Producto,Producto
+Corpus,empresarial visa y mastercard,Producto,Producto
+Corpus,avianca lifemiles micropyme,Producto,Producto
+Corpus,avianca lifemiles pyme,Producto,Producto
+Corpus,mastercard negocios,Producto,Producto
+Corpus,caja menor,Producto,Producto
+Corpus,viáticos,Servicio,Servicio
+Corpus,nómina,Servicio,Servicio;Ahorro
+Corpus,tarjetas empresariales,Producto,Producto
+Corpus,corriente,Producto,Producto
+Corpus,ahorros,Servicio,Servicio;Ahorro;Débito
+Corpus,maestra,Producto,Producto;Ahorro;Deébito
+Corpus,inmobiliario completo,Producto,Producto
+Corpus,administración y fuentes de pagos,Servicio,Servicio
+Corpus,fideicomiso de inversión,Servicio,Servicio
+Corpus,administración y pagos,Servicio,Servicio
+Corpus,anticipos,Servicio,Servicio
+Corpus,fondos de capital privado,Producto,Producto
+Corpus,administración de inmuebles,Servicio,Servicio
+Corpus,garantía con inmuebles,Servicio,Servicio
+Corpus,tesorería inmobiliaria,Servicio,Servicio
+Corpus,leasing internacional,Producto,Producto
+Corpus,leasing verde,Producto,Producto
+Corpus,arrendamiento operativo,Servicio,Servicio
+Corpus,arrendamiento de vehículos,Servicio,Servicio
+Corpus,renting vehículos,Producto,Producto
+Corpus,sucursal virtual empresas bancolombia,Servicio,Servicio
+Corpus,indicadores,Servicio,Servicio
+Corpus,mercado de capitales,Servicio,Servicio
+Corpus,banca de inversión bancolombia s.a,Servicio,Servicio
+Corpus,grupo bancolombia asset management,Servicio,Servicio
+Corpus,fiduciaria bancolombia s.a,Servicio,Servicio
+Corpus,leasing bancolombia  ,Producto,Producto
+Corpus,renting colombia s.a,Producto,Producto
+Corpus,valores bancolombia s.a,Servicio,Servicio
+Corpus,sufi ,Servicio,Servicio
+Corpus,asset management,Servicio,Servicio
+Corpus,fiduciaria,Servicio,Servicio
+Corpus,valores panamá,Servicio,Servicio
+Corpus,leasing perú,Producto,Producto
+Corpus,opciones de inversión,Servicio,Servicio
+Corpus,certificado de depósito a término (cdt),Servicio,Servicio;CDT
+Corpus,acciones,Servicio,Servicio
+Corpus,asesoría especializada,Servicio,Servicio
+Corpus,cuenta pensión,Producto,Producto
+Corpus,tarjetas de crédito visa,Producto,Tarjeta de crédito
+Corpus,canales virtuales,Servicio,Servicio
+Corpus,vida,Servicio,Servicio
+Corpus,hogar,Servicio,Servicio
+Corpus,desempleo,Servicio,Servicio
+Corpus,vehículos,Servicio,Servicio
+Corpus,accidentes y asistencias,Servicio,Servicio
+Corpus,exequial,Servicio,Servicio
+Corpus,cobertura integral,Servicio,Servicio
+Corpus,plan mascota protegida,Servicio,Servicio
+Corpus,seguro de vida para créditos de libre inversión otorgados a persona natural,Servicio,Seguro
+Corpus,seguro de incendio y terremoto deudores hipotecarios,Servicio,Seguro
+Corpus,seguro de vida deudor hipotecario,Servicio,Seguro
+Corpus,seguro todo riesgo en construcción,Servicio,Seguro
+Corpus,remesas,Servicio,Servicio
+Corpus,negociación de compra y venta de divisas,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,cajero automático bancolombia,Servicio,Servicio;Retiro;Consulta
+Corpus,web,Servicio,Servicio
+Corpus,telefónico,Servicio,Servicio
+Corpus,cuenta de ahorros,Servicio,Servicio
+Corpus,transferencia temporal de valores,Servicio,Servicio
+Corpus,transferencias,Servicio,Servicio
+Corpus,adquirencia,Servicio,Servicio
+Corpus,transferencias y pagos,Servicio,Servicio
+Corpus, canales virtuales,Servicio,Servicio
+Corpus,cdt bancolombia tasa fija (e.a),Servicio,Servicio;CDT
+Corpus,cdt bancolombia,Servicio,Servicio;CDT
+Corpus,simulador,Servicio,Servicio
+Corpus,cdt físico,Servicio,Servicio;CDT
+Corpus,créditos de estudio,Producto,Crédito
+Corpus,crédito de estudio corto plazo,Producto,Crédito
+Corpus,crédito de estudio largo plazo posgrado,Producto,Crédito
+Corpus,maestro de pago sin contacto,Producto,Producto;Tarjeta débito
+Corpus,transporte,Producto,Producto;Tarjeta débito
+Corpus,amparada,Producto,Producto;Tarjeta crédito
+Corpus,black,Producto,Producto;Tarjeta crédito
+Corpus,clásica,Producto,Producto;Tarjeta crédito
+Corpus,canales de atención,Servicio,Servicio
+Corpus,giros internacionales desde el exterior,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,billetera movil,Producto,Producto
+Corpus,tarjeta débito,Producto,Producto
+Corpus,ahorro con fin específico,Producto,Producto
+Corpus,fiducuenta,Producto,Producto
+Corpus,fiduexcedentes,Producto,Producto
+Corpus,renta acciones,Producto,Producto
+Corpus,fidurenta,Producto,Producto
+Corpus,renta balanceado global,Servicio,Servicio
+Corpus,renta liquidez,Servicio,Servicio
+Corpus,renta fija plazo,Servicio,Servicio
+Corpus,renta variable colombia,Servicio,Servicio
+Corpus,renta balanceado,Servicio,Servicio
+Corpus,renta fija plus,Servicio,Servicio
+Corpus,renta alta convicción: alternativa concentrada de inversión,Servicio,Servicio
+Corpus,fondos de inversión colectiva,Servicio,Servicio
+Corpus,libre inversión,Producto,Producto
+Corpus,libranza empleados,Producto,Producto
+Corpus,libranza pensionados,Producto,Producto
+Corpus,crédito con pignoración de pensiones,Producto,Crédito
+Corpus,compra de cartera,Servicio,Servicio
+Corpus,sobregiro,Concepto,Tarjeta débito
+Corpus,crédito a la mano,Producto,Crédito
+Corpus,adelanto de ingresos,Servicio,Servicio
+Corpus,simulador tarjeta crédito,Producto,Tarjeta de crédito
+Corpus,cuenta afc,Servicio,Servicio
+Corpus,ahorro programado,Servicio,Servicio;Cuenta de ahorro
+Corpus,crédito hipotecario para adquisición de vivienda y leasing habitacional,Producto,Crédito
+Corpus,créditos hipotecarios: para comprar locales y para construcción de vivienda,Producto,Crédito
+Corpus,crédito hipotecario para remodelación de vivienda,Producto,Crédito
+Corpus,créditos de consumo ,Producto,Crédito
+Corpus,simulador crédito consumo,Servicio,Servicio
+Corpus,pac electrónico bancolombia,Servicio,Servicio
+Corpus,simulador presupuesto,Servicio,Servicio
+Corpus,banca de inversion,Servicio,Servicio
+Corpus,factoring de exportación,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,factoring de importación,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,export factoring,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,import factoring,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,sucursal virtual valores bancolombia,Servicio,Servicio
+Corpus,bancolombia e-trading en línea,Servicio,Servicio
+Corpus,invesbot,Servicio,Servicio
+Corpus,factoring de exportación colombia,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,factoring de exportación con recurso puerto rico,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,factoring de exportación con recurso panamá,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,factoring de importación colombia,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,factoring de importación puerto rico,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,factoring de importación panamá,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,sucursal virtual factoring bancolombia,Servicio,Servicio
+Corpus,sucursal telefónica factoring bancolombia,Servicio,Servicio
+Corpus,sucursal virtual leasing bancolombia,Servicio,Servicio
+Corpus,facturanet,Servicio,Servicio
+Corpus,leasing otros activos,Producto,Producto
+Corpus,canal telefónico leasing bancolombia clientes,Servicio,Servicio
+Corpus,canal telefónico leasing bancolombia proveedores,Servicio,Servicio
+Corpus,renting clientes,Producto,Producto
+Corpus,renting proveedores,Producto,Producto
+Corpus,pago de comisiones fiduciarias,Servicio,Servicio
+Corpus,sucursal telefónica fiduciaria bancolombia,Servicio,Servicio
+Corpus,renta fija internacional,Producto,Producto
+Corpus,renta variable internacional,Producto,Producto
+Corpus,fondos mutuos,Producto,Producto
+Corpus,sucursal virtual valores bancolombia panamá,Servicio,Servicio
+Corpus,fondo de inversión mutuo,Producto,Producto
+Corpus,renta fija local,Producto,Producto
+Corpus,renta variable local,Producto,Producto
+Corpus,sucursal virtual valores banistmo,Servicio,Servicio
+Corpus,administración y fuentes de pago,Servicio,Servicio
+Corpus,fideicomisos familiares,Servicio,Servicio
+Corpus,fideicomisos inmobiliarios,Servicio,Servicio
+Corpus,depósitos a plazo cdt,Producto,Producto
+Corpus,financiamiento a plazos,Servicio,Servicio
+Corpus,valores banistml,Servicio,Servicio
+Corpus,cuenta corriente dólares,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,sucursal telefónica personas,Servicio,Servicio
+Corpus,renting perú clientes,Producto,Producto
+Corpus,comercialización de vehículos usados,Producto,Producto
+Corpus,sucursal virtual treasurykey,Servicio,Servicio
+Corpus,certificaciones sufi,Servicio,Servicio
+Corpus,creditos,Producto,Crédito
+Corpus,simula tu ahorro,Servicio,Servicio
+Corpus,simula tu compras,Servicio,Servicio
+Corpus,tarjeta de crédito joven mastercard,Producto,Tarjeta de crédito
+Corpus,american express® de bancolombia,Producto,Producto;Tarjeta crédito
+Corpus,mastercard ,Producto,Producto
+Corpus,mastercard - sufi,Producto,Producto
+Corpus,tarjeta joven bancolombia,Producto,Producto
+Corpus,tarjeta e-card bancolombia,Producto,Producto
+Corpus,tarjeta visa,Producto,Producto;Tarjeta crédito
+Corpus,tarjeta oficial de nuestra selección colombia,Producto,Producto;Tarjeta crédito
+Corpus,puntos bancolombia,Servicio,Servicio
+Corpus,tarjeta oficial de nuestra selección colombia (visa),Producto,Producto;Tarjeta crédito
+Corpus,redime tus puntos bancolombia,Servicio,Servicio
+Corpus,compra dólares,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,renta tu vehículo,Servicio,Servicio
+Corpus,ahorros en otras monedas,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,cuentas corrientes ,Producto,Producto
+Corpus,acceso al leasing inmobiliario,Producto,Producto
+Corpus,acceso al leasing,Producto,Producto
+Corpus,recaudo sucursal virtual y telefónica sin validación,Servicio,Servicio
+Corpus,facturas,Servicio,Servicio
+Corpus,impuestos,Servicio,Servicio
+Corpus,pagos,Servicio,Servicio
+Corpus,tarjeta de recaudo empresarial,Producto,Producto
+Corpus,pagos de facturas,Servicio,Servicio
+Corpus,soporte de pagos,Servicio,Servicio
+Corpus,recauda tus ventas ,Servicio,Servicio
+Corpus,ventas por internet,Servicio,Servicio
+Corpus,administración de liquidez,Servicio,Servicio
+Corpus,giros financiados,Servicio,Servicio
+Corpus,cobranza,Servicio,Servicio
+Corpus,prefinanciación de exportaciones,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,trade,Servicio,Servicio
+Corpus,prefinanciación exportaciones colombia ,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,cartera comercial,Producto,Producto
+Corpus,crédito de vehículo,Producto,Crédito
+Corpus,financiación en dólares,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,seguros para su crédito agrofácil,Servicio,Seguro
+Corpus, acuícola o de pesca,Producto,Producto
+Corpus,token,Servicio,Servicio
+Corpus,tarjeta de crédito visa empresarial,Producto,Tarjeta de crédito
+Corpus,apoyo para la gestion de tu negocio,Servicio,Servicio
+Corpus,tarjeta débito,Producto,Producto;Tarjeta débito
+Corpus,cuenta nómina fija,Producto,Producto
+Corpus,tarjeta débito maestro,Producto,Producto;Tarjeta débito
+Corpus,tarjeta débito maestro de pago sin contacto,Producto,Producto;Tarjeta débito
+Corpus,tarjetas de crédito empresariales,Producto,Tarjeta de crédito
+Corpus,tarjeta de crédito avianca lifemiles pyme,Producto,Tarjeta de crédito
+Corpus,recargas7/24,Servicio,Servicio
+Corpus,portal web,Servicio,Servicio
+Corpus,cambio y recordación de la clave,Servicio,Servicio
+Corpus,chip de seguridad,Servicio,Servicio
+Corpus,tarjeta prepago caja menor,Producto,Producto
+Corpus,tarjeta prepago viáticos,Producto,Producto
+Corpus,tarjeta prepago bancolombia flotas,Producto,Producto
+Corpus,tarjeta prepago beneficios alimentación,Producto,Producto
+Corpus,tarjeta prepago bancolombia nómina,Producto,Producto
+Corpus,tarjeta prepago bono regalo,Producto,Producto
+Corpus,tarjeta prepago bancolombia incentivo,Producto,Producto
+Corpus,cuenta corriente en pesos,Producto,Producto
+Corpus,cuenta corriente en dólares o en euros,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio;Puerto Rico
+Corpus,cuenta de ahorro puerto rico,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio;Puerto Rico
+Corpus,depósito de plazo puerto rico,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio;Puerto Rico
+Corpus,cuenta maestra,Producto,Producto
+Corpus,pólizas complementarias,Servicio,Servicio
+Corpus,póliza autos,Servicio,Servicio
+Corpus,póliza todo riesgo,Servicio,Servicio
+Corpus,póliza mec,Servicio,Servicio
+Corpus,póliza rce para mec,Servicio,Servicio
+Corpus,póliza vida deudores inmuebles no habitacional,Servicio,Servicio
+Corpus,póliza vida deudores autos y demás bienes,Servicio,Servicio
+Corpus,póliza transporte mercancías,Servicio,Servicio
+Corpus,políticas de endoso,Servicio,Servicio
+Corpus,simula,Servicio,Servicio
+Corpus,leasing financiero de otros activos,Producto,Producto
+Corpus,líneas de crédito,Producto,Crédito
+Corpus,leasing-verde,Producto,Producto
+Corpus,pagos automáticos bancolombia,Servicio,Servicio
+Corpus,sucursal virtual,Servicio,Servicio
+Corpus,seguros de vida,Servicio,Seguro
+Corpus,ingreso protegido,Producto,Producto
+Corpus,desempleo crédito hipotecario,Producto,Crédito
+Corpus,desempleo tarjeta de crédito,Producto,Tarjeta de crédito
+Corpus,desempleo libranza empleados,Producto,Producto
+Corpus,desempleo libre inversión,Producto,Producto
+Corpus,desempleo vehículo,Producto,Producto
+Corpus,accidentes con asistencia,Servicio,Servicio
+Corpus,plan de asistencias igs,Servicio,Servicio
+Corpus,plan de asistencia senior,Servicio,Servicio
+Corpus,seguros de accidentes,Servicio,Seguro
+Corpus,tarjeta de crédito bancolombia,Producto,Tarjeta de crédito
+Corpus,tarjeta débito bancolombia,Producto,Producto;Tarjeta débito
+Corpus,créditos con seguro vida más,Servicio,Seguro
+Corpus,seguro de vida para créditos de consumo,Servicio,Seguro
+Corpus,seguro de vida para crédito de bajo monto o crédito a la mano,Servicio,Seguro
+Corpus, seguro transformación digital,Servicio,Seguro
+Corpus,créditos bancolombia.,Producto,Crédito
+Corpus,de vida deudor hipotecario,Producto,Producto
+Corpus,remesas familiares,Producto,Producto
+Corpus,retiros y consignaciones,Servicio,Servicio
+Corpus,clave dinámica bancolombia,Servicio,Servicio
+Corpus, transacciones,Servicio,Servicio
+Corpus,canal telefónico leasing bancolombia clientes ,Servicio,Servicio
+Corpus,paga tus impuestos con tus tarjetas de crédito bancolombia,Servicio,Servicio
+Corpus,sucursales bancolombia,Servicio,Servicio
+Corpus,impuestos a la dian desde nuestro portal,Servicio,Servicio
+Corpus,leasing peru,Producto,Producto;Perú
+Corpus,recaudo preautorizado,Producto,Producto
+Corpus,recaudo por demanda  ach,Producto,Producto
+Corpus,simulador ahorro e inversión,Servicio,Servicio
+Corpus,cdt desmaterializado,Servicio,Servicio;CDT
+Corpus,depósito a plazos,Servicio,Servicio;Ahorro
+Corpus,crédito a corto plazo,Producto,Crédito
+Corpus,crédito a largo plazo pregrado,Producto,Crédito
+Corpus,crédito a largo plazo posgrado,Producto,Crédito
+Corpus,tarjeta débito maestro preferencial,Producto,Producto;Tarjeta débito
+Corpus,tarjeta débito bancolombia con funcionalidad transporte,Producto,Producto;Tarjeta débito
+Corpus,seguros preferenciales,Servicio,Seguro
+Corpus,tarjeta débito mastercard preferencial,Producto,Producto;Tarjeta débito
+Corpus,tarjeta master,Producto,Producto;Tarjeta débito
+Corpus,tarjeta débito mastercard black,Producto,Producto;Tarjeta débito
+Corpus,cuenta de ahorros preferencial,Servicio,Producto;Ahorro
+Corpus,tarjeta débito mastercard preferencial de bancolombia,Producto,Producto;Tarjeta débito
+Corpus,realiza tus proyecciones ,Servicio,Servicio
+Corpus,simulador crédito inmobiliario ,Servicio,Servicio
+Corpus,simulador crédito vehículo,Servicio,Servicio
+Corpus,fondos de inversión colectiva (fic),Servicio,Servicio
+Corpus,invesbot valores bancolombia,Servicio,Servicio
+Corpus,simula tu crédito de libre inversión,Servicio,Servicio
+Corpus,crédito de libre inversión,Producto,Crédito
+Corpus,tarjeta de crédito visa clásica,Producto,Tarjeta de crédito
+Corpus,simula tu crediágil,Servicio,Servicio
+Corpus,cuenta corriente,Producto,Producto
+Corpus,cuenta nómina,Servicio,Servicio;Ahorro
+Corpus,crédito adquisición de vivienda,Producto,Crédito
+Corpus,simulador solución inmobiliaria,Servicio,Servicio
+Corpus,crédito para construcción individual de vivienda,Producto,Crédito
+Corpus,seguros obligatorios,Servicio,Seguro
+Corpus,seguros voluntarios,Servicio,Seguro
+Corpus,créditos para vivienda,Producto,Crédito
+Corpus,crédito hipotecario para construcción de vivienda,Producto,Crédito
+Corpus,crédito de adquisición de vivienda,Producto,Crédito
+Corpus,cuenta corriente bancolombia,Producto,Producto
+Corpus,cuenta ahorros en pesos,Servicio,Servicio;Ahorro
+Corpus,cuenta ahorros en dólares,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,giros nacionales,Servicio,Servicio
+Corpus,etrading en línea,Servicio,Servicio
+Corpus,modificación o reestructuración de créditos,Servicio,Servicio
+Corpus,financiamiento a plazo en dólares,Servicio,Servicio
+Corpus,indicadores económicos,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,convenio icetex,Producto,Producto
+Corpus,giros internacionales en tu ahorro a la mano,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,recargas,Servicio,Servicio
+Corpus,tarjeta virtual e-prepago,Producto,Producto
+Corpus,tarjeta débito preferencial ,Producto,Producto;Tarjeta débito
+Corpus,tarjeta débito banconautas,Producto,Producto
+Corpus,plan banconautas,Producto,Producto
+Corpus,crédito hipotecario,Producto,Crédito
+Corpus,cuenta de ahorros comercial elite,Servicio,Servicio;Ahorro
+Corpus,cuenta de ahorros pyme elite,Servicio,Servicio;Ahorro
+Corpus,depósito a plazo panamá,Producto,Producto;Panamá
+Corpus,ahorros otras monedas,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,cuenta ahorro panamá,Servicio,Servicio;Ahorro;Panamá
+Corpus,seguro vida integral,Servicio,Seguro
+Corpus,simula tu crédito,Servicio,Servicio
+Corpus,simula tu libranza,Servicio,Servicio
+Corpus,crédito para vehículo nuevo o usado,Producto,Crédito
+Corpus, adquisición de vivienda,Producto,Producto
+Corpus,crédito para colombianos en el exterior,Producto,Moneda;Compra;Venta;Tasa de Cambio
+Corpus,construcción de vivienda,Producto,Producto
+Corpus,reforma de vivienda,Producto,Producto
+Corpus,crédito hipotecario para reforma de vivienda,Producto,Crédito
+Corpus,crédito hipotecario para comprar vivienda desde el exterior,Producto,Crédito
+Corpus,agrofácil,Producto,Producto
+Corpus,bancoldex,Servicio,Servicio
+Corpus,cartera ordinaria,Producto,Producto
+Corpus,canales de atención posventa ,Servicio,Servicio
+Corpus,cuenta de ahorro,Producto,Producto
+Corpus,crédito finagro,Producto,Crédito
+Corpus,tarjeta de crédito american express blue ,Producto,Tarjeta de crédito
+Corpus,tarjeta de crédito american express gold,Producto,Tarjeta de crédito
+Corpus,tarjeta de crédito mastercard ideal,Producto,Tarjeta de crédito
+Corpus,débito automático,Producto,Producto
+Corpus,tarjeta de crédito mastercard esso mobil oro,Producto,Tarjeta de crédito
+Corpus,seguro cobertura integral,Servicio,Seguro;Tarjeta crédito
+Corpus,tarjeta de crédito platinum mastercard,Producto,Crédito
+Corpus,tarjeta de crédito clásica visa,Producto,Tarjeta de crédito
+Corpus,tarjeta de crédito visa oro,Producto,Tarjeta de crédito
+Corpus,tarjeta de crédito visa infinite,Producto,Tarjeta de crédito
+Corpus,tarjeta de crédito mastercard sufi oro,Producto,Tarjeta de crédito
+Corpus,simulador de canon financiero,Servicio,Servicio
+Corpus,tarjeta de crédito ,Producto,Tarjeta de crédito
+Corpus,crédito de libranza,Producto,Crédito
+Corpus,simulador de ahorro e inversión,Servicio,Servicio
+Corpus,depósitos a plazo en dólares,Producto,Producto
+Corpus,depósitos a plazo en euros,Producto,Producto
+Corpus,depósitos a plazos,Producto,Producto
+Corpus,tidis,Servicio,Servicio
+Corpus,simulador tienda del inmueble,Servicio,Servicio
+Corpus,canal telefonico leasing bancolombia proveedores,Servicio,Servicio
+Corpus,valores banistmo ,Servicio,Servicio
+Corpus,depósito a plazo,Producto,Producto
+Corpus,transaccionalidad: cheques,Servicio,Servicio
+Corpus, transferencias y pagos,Servicio,Servicio
+Corpus,medios de pago: trade,Servicio,Servicio
+Corpus,sucursal virtual personal - cambios,Servicio,Servicio
+Corpus,depósitos a plazo,Producto,Producto
+Corpus,préstamos,Producto,Producto
+Corpus,sucursal virtual empresas - cambios,Servicio,Servicio
+Corpus,pagos facturas bancolombia app,Servicio,Servicio
+Corpus,consignaciones,Servicio,Servicio
+Corpus,bloqueo y desbloqueo,Servicio,Servicio
+Corpus,cambio de claves,Servicio,Servicio
+Corpus,bloqueo de claves,Servicio,Servicio
+Corpus,crédito de tesorería en pesos,Producto,Crédito
+Corpus,microcrédito,Producto,Crédito
+Corpus,credipago,Producto,Crédito
+Corpus,credinsumo?credicafé,Producto,Crédito
+Corpus,credicaña,Producto,Crédito
+Corpus,cuenta de ahorros,Producto,Producto;Ahorro
+Corpus,cuenta ahorro,Producto,Producto;Ahorro
+Corpus,seguros para tu crédito,Servicio,Seguro
+Corpus,crédito constructor profesional,Producto,Crédito
+Corpus,crédito constructor preoperativo,Producto,Crédito
+Corpus,financiación en dólares,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,crédito tesorería en dolares ,Producto,Crédito
+Corpus,crédito tesorería  dolares panamá,Producto,Crédito
+Corpus,capital trabajo dolares,Producto,Producto;Crédito
+Corpus,capital de trabajo dolares puerto rico,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio;Puerto Rico
+Corpus,historico de transacciones,Servicio,Servicio
+Corpus,operaciones de cambios,Servicio,Servicio
+Corpus,depósito a plazos puerto rico,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio;Puerto Rico
+Corpus,cuenta corriente puerto rico,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio;Puerto Rico
+Corpus,apertura y cancelación,Servicio,Servicio
+Corpus,importación,Servicio,Servicio
+Corpus,tarjeta prepago nómina,Producto,Producto
+Corpus,tarjeta prepago incentivo,Producto,Producto
+Corpus,tarjeta de crédito visa distribución,Producto,Tarjeta de crédito
+Corpus,simulador cdt,Servicio,Servicio;CDT
+Corpus,deposito plazos dolares euros,Producto,Producto
+Corpus,depósito a plazo puerto rico,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio;Puerto Rico
+Corpus,renta liquidez valores bancolombia,Producto,Producto
+Corpus,depósito a plazo cdt en dólares o euros,Producto,Servicio;CDT;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,corresponsalías internacionales,Servicio,Servicio
+Corpus,simulador canon financiero,Servicio,Servicio
+Corpus,arrendamiento operativo de tecnología,Servicio,Servicio
+Corpus,arrendamiento operativo de maquinaria y equipo,Servicio,Servicio
+Corpus,arrendamiento operativo de vehículos,Servicio,Servicio
+Corpus,seguro obligatorio - soat,Servicio,Seguro
+Corpus,asistencia en emergencia,Servicio,Servicio
+Corpus,asistencia al vehículo,Servicio,Servicio
+Corpus,asistencia de personas,Servicio,Servicio
+Corpus,renting de vehículo,Producto,Producto
+Corpus,sucursal virtual valores panamá,Servicio,Servicio;Panamá
+Corpus,canal telefónico leasing bancolombia para proveedores,Servicio,Servicio
+Corpus,pagos de cartera con débito a cuenta,Servicio,Servicio
+Corpus,afiliación a débito automático,Servicio,Servicio
+Corpus,venta de chequera,Servicio,Servicio
+Corpus,consignaciones y pagos en cheque,Servicio,Servicio
+Corpus,títulos de devolución de impuestos,Servicio,Servicio
+Corpus,cambio de depositante (tidis),Servicio,Servicio
+Corpus,cambio titular (traspaso-tidis),Servicio,Servicio
+Corpus,recaudo de impuestos,Servicio,Servicio
+Corpus,recaudos,Servicio,Servicio
+Corpus,giros internacionales,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,exportación desde territorio aduanero,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,venta de divisas,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,importación bienes e ingreso mercancía ,Servicio,Servicio
+Corpus,compra de divisas,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,tarjeta débito bancolombia transporte,Producto,Producto;Tarjeta débito
+Corpus,tarjetas bancolombia de la selección,Producto,Producto;Tarjeta débito
+Corpus,solicitud crediágil,Producto,Crédito
+Corpus, cuenta pensión,Producto,Producto
+Corpus,cuenta ahorro puerto rico,Servicio,Servicio;Puerto Rico
+Corpus,cuenta corriente euros,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,cuenta corriente panamá,Producto,Producto;Moneda;Compra;Venta;Tasa de Cambio;Panamá
+Corpus,arjeta de crédito platinum american express,Producto,Tarjeta de crédito
+Corpus,cajero multifuncional ,Servicio,Servicio;Retiro;Consulta
+Corpus,avianca lifemiles micropyme ,Producto,Producto;Tarjeta crédito
+Corpus,avianca lifemiles pyme ,Producto,Producto;Tarjeta crédito
+Corpus,tarjeta de crédito mastercard negocios,Producto,Tarjeta de crédito
+Corpus,tarjeta prepago flotas,Producto,Producto
+Corpus,tarjeta prepago bancolombia viáticos,Producto,Producto
+Corpus,tarjeta prepago bancolombia bono regalo,Producto,Producto
+Corpus,créditos de locales y otros,Producto,Crédito
+Corpus,crédito para adquisición de vivienda,Producto,Crédito
+Corpus,crédito para reforma de vivienda,Producto,Crédito
+Corpus,tarjeta de crédito avianca lifemiles micropyme,Producto,Tarjeta de crédito
+Corpus,tarjeta prepago bancolombia caja menor,Producto,Producto
+Corpus,cuenta corriente cayman,Producto,Producto
+Corpus,cuenta de ahorros en pesos,Servicio,Servicio
+Corpus,leasing financiero,Producto,Producto
+Corpus,factoring internacional,Servicio,Servicio
+Corpus,factura electrónica,Servicio,Servicio
+Corpus,crédito sindicado - grupo phoenix,Producto,Crédito
+Corpus,emisiones de acciones,Servicio,Servicio
+Corpus,simula tu plan,Servicio,Servicio
+Corpus,tarjeta de crédito,Producto,Crédito
+Corpus,tarjeta de débito,Producto,Producto
+Corpus,seguro de desempleo- tarjeta de crédito,Servicio,Seguro
+Corpus,seguro de desempleo - tarjeta de crédito,Servicio,Seguro
+Corpus,seguro de desempleo- crédito libre inversión,Servicio,Seguro
+Corpus,crédito de libre inversión,Producto,Crédito
+Corpus,cuenta corriente en pesos,Producto,Producto
+Corpus,crédito de estudio largo plazo pregrado,Producto,Crédito
+Corpus,tarjeta débito preferencial,Producto,Producto;Tarjeta débito
+Corpus,tarjeta débito bancolombia mastercard,Producto,Producto;Tarjeta débito
+Corpus,tarjetas de crédito bancolombia,Producto,Tarjeta de crédito
+Corpus,crédito de consumo,Producto,Crédito
+Corpus,simulador ahorro e inversion,Servicio,Servicio
+Corpus,crédito para vivienda,Producto,Crédito
+Corpus, mi casa ya,Producto,Producto
+Corpus,crédito hipotecario para comprar vivienda,Producto,Crédito
+Corpus,seguro de incendio inmueble habitacional,Servicio,Seguro
+Corpus,seguro colectivo de vida deudores leasing habitacional bancolombia,Servicio,Seguro
+Corpus,etrading profesional,Servicio,Servicio
+Corpus,plan pensión,Producto,Producto
+Corpus,simula tu crédito,Servicio,Servicio
+Corpus,cuenta banconautas,Producto,Producto
+Corpus,tarjeta débito banconautas,Producto,Producto;Tarjeta débito
+Corpus,crédito para vehículo,Producto,Crédito
+Corpus,crédito para colombianos en el exterior:,Producto,Crédito
+Corpus,tarjeta de crédito oficial de nuestra selección colombia,Producto,Tarjeta de crédito
+Corpus,simulador seguro desempleo,Servicio,Servicio
+Corpus,datáfono bancolombia,Servicio,Servicio
+Corpus,cheque consecutivo,Servicio,Servicio
+Corpus, cuenta corriente en pesos ,Producto,Producto
+Corpus,sucursal virtual de empresas ,Servicio,Servicio
+Corpus,protege tu vehículo,Producto,Producto
+Corpus,simulador cdt puerto rico,Servicio,Servicio;CDT
+Corpus,póliza maquinaria y equipos contratistas,Producto,Producto
+Corpus,protege tus bienes,Producto,Producto
+Corpus,póliza transporte,Producto,Producto
+Corpus,negociación de divisas,Servicio,Servicio
+Corpus,envío de divisas por pago de importaciones ,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,financiación de divisas para pago de anticipado de importaciones ,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,financiación de divisas para pago de importaciones de mercancía ya embarcada,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,recepción de divisas por devolución de importaciones,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,giro de divisas,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,recepción de divisas,Servicio,Servicio;Moneda;Compra;Venta;Tasa de Cambio
+Corpus,recaudo referenciado con código de barras y con tarjeta empresarial,Servicio,Servicio
+Corpus,recaudo referenciado con validación en base de datos,Servicio,Servicio
+Corpus,recaudo integrado al negocio doble vía,Servicio,Servicio
+Corpus,recaudo integrado al negocio una vía,Servicio,Servicio
+Corpus,recaudo referenciado canales físicos,Servicio,Servicio
+Corpus,pagos y recaudos gobierno,Servicio,Servicio
+Corpus,tarjeta de crédito black mastercard,Producto,Tarjeta de crédito
+Corpus,mastercard black,Producto,Producto;Tarjeta crédito
+Corpus,mastercard.,Producto,Producto
+Corpus,pagos facturas bancolombia a la mano,Servicio,Servicio
+Corpus,crédito de tesorería en dólares,Producto,Moneda;Compra;Venta;Tasa de Cambio
+Corpus,garantia con inmuebles,Servicio,Servicio
+Corpus,pagos automáticos,Servicio,Servicio
+Corpus,pagos impuestos,Servicio,Servicio
+Corpus,tarjeta prepago,Producto,Producto
