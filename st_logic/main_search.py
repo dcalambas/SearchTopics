@@ -19,7 +19,11 @@ for jchat in json_data:
 
     for jtext in jchat['messages_all']:
 
-        textos_chat = textos_chat + jtext['text'] + " "
+        textos_chat = textos_chat + " " + jtext['text'] + " "
+        if jchat['id_conversation'] == '68f7d3ed9f2dafc99175070d4d1a9d21a7ac004b':
+            print(jtext['text'])
+    if jchat['id_conversation'] == '68f7d3ed9f2dafc99175070d4d1a9d21a7ac004b':
+        print(textos_chat)
 
     if textos_chat == "":
         listado_chats[id_chat] = ""
